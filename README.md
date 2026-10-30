@@ -4,4 +4,4 @@
 
 - 🚚 Логистика и цепи поставок
 - 🔧 Автоматизирую дизайн-процессы
-- 📫 [GitHub Issues](https://github.com/Yaroslavoff/yaroslavoff/issues)
+- 📫 Связаться: [GitHub Issues](https://github.com/Yaroslavoff/yaroslavoff/issues)
